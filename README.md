@@ -1,0 +1,2 @@
+# contiki.git-
+contiki directory
